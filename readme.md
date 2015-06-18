@@ -36,4 +36,9 @@ h1.awesome {
 
 * Run `gulp css` to import `bootstrap` and `fontawesome` to `app/css/style.css`
 
-* Run local server with live reload at port `12405` by running `gulp webserver`
+* Run local server with live reload @ [http://localhost:12504](http://localhost:12504) by running `gulp webserver`
+
+
+### Customize
+
+* Edit the `gulpfile.js` and setup your own settings.
