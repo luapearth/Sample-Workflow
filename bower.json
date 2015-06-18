@@ -2,6 +2,14 @@
   "name": "leave",
   "dependencies": {
     "bootstrap-sass-official": "~3.3.5",
-    "fontawesome": "~4.3.0"
+    "fontawesome": "~4.3.0",
+    "angular": "~1.4.1",
+    "angular-google-plus": "~0.1.2",
+    "jquery": "~1.11.0",
+    "ngstorage": "~0.3.5",
+    "angular-resource": "~1.4.1",
+    "angular-sanitize": "~1.4.1",
+    "angular-cookies": "~1.4.1",
+    "angular-route": "~1.4.1"
   }
 }
